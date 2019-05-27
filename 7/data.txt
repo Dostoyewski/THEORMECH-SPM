@@ -1,0 +1,9 @@
+k1 upper_max = 0.4695, tau = 2*61.631, lower_max = 0.1511
+sinphase t = 1.073, upper_max = 0.1745, lower_max = 0.075, k = 5.855
+gegenphase t = 0.412, upper_max = 0.1745, lower_max = 0.39, k = 15.25
+tau_upper = 1.121, k = 5.0
+tau_lower = 0.424, k = 14.81
+kgash tau = 2*69.476, upper_max = 0.22, lower_max = 0.071
+k2 lower_max = 0.62, tau = 4.503, upper_max = 0.1993
+ksin tau = 64.514, upper_max = 0.16, lower_max = 0.1369
+kgegen t = 5.771, upper_max = 0.2582, lower_max = 0.8
